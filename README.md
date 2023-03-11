@@ -1,5 +1,5 @@
 Contributor
 
 
-- <Ardhana Galih Yuda Bintara> - <BE5466996>
+- '<Ardhana Galih Yuda Bintara> - <BE5466996>'
 - Bob
